@@ -1,0 +1,123 @@
+:root {
+    padding: 10px;
+}
+
+h1 {
+    color: rgb(70, 0, 128);
+    font-size: 26px;
+    margin-top: 10px;
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+h2 {
+    color: rgb(70, 0, 128);
+    font-size: 17px;
+    margin-top: 10px;
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+h3 {
+    color: rgb(70, 0, 128);
+    font-size: 35px;
+    margin-top: 10px;
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+h4 {
+    color: rgb(70, 0, 128);
+    font-size: 26px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+.color-paragraphs {
+    color: black;
+    font-size: 18px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+em {
+    margin-top: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+}
+
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+nav ul {
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    background-color: #ccc9f1;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #0a0909;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+body {
+    background-color: #e4e6f096;
+}
+
+.demo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 25px;
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+.quiz-title {
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+.buttons {
+    padding: 40px;
+    color: #ccc9f1;
+    background-color: #0a0909;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
